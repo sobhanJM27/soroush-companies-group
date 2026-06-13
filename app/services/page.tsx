@@ -7,9 +7,9 @@ import { ServicesCapabilityStrip } from "@/components/ui/services-capability-str
 import { ServicesCta } from "@/components/ui/services-cta";
 
 export const metadata: Metadata = {
-  title: "Services",
+  title: "Projects",
   description:
-    "Explore Soroush Companies group integrated engineering services including architectural design, structural systems, MEP coordination, construction supervision, and project management.",
+    "Explore selected architectural and engineering projects by Soroush Omran Shafagh Co., featuring residential, commercial, and mixed‑use developments that demonstrate our approach to design development, technical coordination, and execution‑focused planning.",
 };
 
 export default function ServicesPage() {
