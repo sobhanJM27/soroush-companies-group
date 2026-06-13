@@ -5,6 +5,8 @@ import Navbar from "@/components/ui/navbar";
 import { ThemeHandle } from "@/components/theme-handle";
 import Footer from "@/components/ui/footer";
 import { ScrollToTop } from "@/components/scroll-to-top";
+import { Suspense } from "react";
+import Loading from "./loading";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
   variable: "--font-plus-jakarta-sans",
@@ -39,7 +41,9 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <ThemeHandle>
-          <ScrollToTop />
+          <Suspense fallback={<Loading />}>
+            <ScrollToTop />
+          </Suspense>
           <Navbar />
           {children}
           <Footer />
