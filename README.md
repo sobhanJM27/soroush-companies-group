@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/logo1.png" alt="Soroush Group Logo" width="140" />
+  <img src="./public/images/logo1.png" alt="Soroush Group Logo" width="300" />
 </p>
 
 <h1 align="center">
@@ -15,15 +15,14 @@
   engineering expertise, and execution-driven project delivery.
 </p>
 
-<p align="center">
+<div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=for-the-badge&logo=tailwindcss)
-![License](https://img.shields.io/badge/License-Private-red?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
