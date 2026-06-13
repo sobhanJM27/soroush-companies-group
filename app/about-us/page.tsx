@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "Discover Soroush Companies group engineering expertise, official credentials, technical capabilities, and company background.",
 };
 
-export default async function AboutPage() {
+export default function AboutUs() {
   return (
     <main className={mainLayout}>
       <AboutHero />

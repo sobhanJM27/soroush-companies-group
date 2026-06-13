@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "Explore selected architectural and engineering projects by Soroush Omran Shafagh Co., featuring residential, commercial, and mixed‑use developments that demonstrate our approach to design development, technical coordination, and execution‑focused planning.",
 };
 
-export default function ServicesPage() {
+export default function Services() {
   return (
     <main className={mainLayout}>
       <ServicesHero />
