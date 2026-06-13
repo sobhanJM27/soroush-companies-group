@@ -29,7 +29,7 @@
 
 ## 📖 About
 
-**Soroush Group** is a modern corporate website and architectural portfolio developed to present engineering services, architectural projects, technical capabilities, and company achievements through a refined and highly responsive user experience.
+**Soroush Companies group** is a modern corporate website and architectural portfolio developed to present engineering services, architectural projects, technical capabilities, and company achievements through a refined and highly responsive user experience.
 
 The platform combines contemporary design principles with modern web technologies to create a fast, scalable, and visually compelling digital presence.
 
@@ -110,7 +110,7 @@ The platform combines contemporary design principles with modern web technologie
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/soroush-group.git
+git clone https://github.com/your-username/soroush-companies-group.git
 ```
 
 ### Install Dependencies
@@ -145,34 +145,6 @@ Start production server:
 
 ```bash
 npm run start
-```
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-> Add your screenshot here
-
-```text
-/public/screenshots/home.png
-```
-
-### Projects Page
-
-> Add your screenshot here
-
-```text
-/public/screenshots/projects.png
-```
-
-### About Page
-
-> Add your screenshot here
-
-```text
-/public/screenshots/about.png
 ```
 
 ---
@@ -215,14 +187,6 @@ The project is built around a few core ideas:
 - [ ] Enhanced animations
 - [ ] SEO optimization
 - [ ] Contact form integration
-
----
-
-## 🤝 Contributing
-
-This project is currently maintained as a private company website.
-
-For suggestions or improvements, please contact the project owner.
 
 ---
 

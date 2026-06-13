@@ -8,11 +8,7 @@ import { cn } from "@/lib/utils";
 import {
   cardAccentLine,
   cardUnderline,
-  surfaceInteractiveHover,
-  surfaceShadowBrand,
-  surfaceShadowSm,
   textLabel,
-  transitionBase,
 } from "@/lib/styles";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { IconWrapper } from "./icon-wrapper";

@@ -16,8 +16,16 @@ import { IconWrapper } from "./icon-wrapper";
 export function ProjectGrid() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-      {projectsItems.map((p, i) => (
-        <Card variant="interactive" className="group cursor-pointer">
+      {projectsItems.map((p) => (
+        <Card
+          key={
+            typeof p.id === "string" || typeof p.id === "number"
+              ? p.id
+              : String(p.id)
+          }
+          variant="interactive"
+          className="group cursor-pointer"
+        >
           <a
             href={p.image}
             target="_blank"

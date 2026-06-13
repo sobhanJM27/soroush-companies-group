@@ -34,6 +34,7 @@ export const CompanyStats = () => {
         <div className="flex flex-wrap gap-6 lg:gap-8">
           {companyStats.map((item) => (
             <Card
+              key={item.id}
               variant="interactive"
               className="flex min-w-55 flex-1 flex-col gap-2 lg:min-w-60"
             >

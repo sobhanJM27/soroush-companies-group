@@ -49,7 +49,11 @@ export function HomeGroup() {
             </div>
             <div className="flex w-full flex-col gap-10 md:flex-row md:justify-center md:gap-12">
               {companies.map((company) => (
-                <Card variant="interactive" className="flex max-w-sm flex-col">
+                <Card
+                  key={company.id}
+                  variant="interactive"
+                  className="flex max-w-sm flex-col"
+                >
                   <div className={cardAccentLine} />
                   <CardHeader>
                     <CardTitle

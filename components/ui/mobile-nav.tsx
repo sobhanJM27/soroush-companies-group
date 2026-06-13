@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { Menu, Sun } from "lucide-react";
+import { Menu } from "lucide-react";
 import ThemeToggle from "../theme-toggle";
 
 export type MobileNavProps = {
