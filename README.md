@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/logo1.png" alt="Soroush Group Logo" width="140" />
+  <img src="./public/images/logo1.png" alt="Soroush Group Logo" width="300" />
 </p>
 
 <h1 align="center">
