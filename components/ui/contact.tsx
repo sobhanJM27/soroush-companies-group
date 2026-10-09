@@ -76,7 +76,7 @@ export function Contact() {
                   </CardHeader>
                 </Card>
               </a>
-              <a href="mailto:info@soroushomran.ir" className="flex-1 min-w-55">
+              <a href="mailto:info@soroushcompanies.com" className="flex-1 min-w-55">
                 <Card>
                   <CardHeader>
                     <div className="flex items-center gap-3">
@@ -84,7 +84,7 @@ export function Contact() {
                         <Mail size={16} />
                       </IconWrapper>
                       <CardTitle className="text-sm">
-                        info@soroushomran.ir
+                        info@soroushcompanies.com
                       </CardTitle>
                     </div>
                     <CardAction>

@@ -1,5 +1,5 @@
 import {
-    container,
+  container,
   dividerGradientV,
   dividerH,
   sectionLayout,

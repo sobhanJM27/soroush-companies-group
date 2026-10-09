@@ -46,7 +46,7 @@ export const footerItems = {
     {
       id: uuidv4(),
       icon: Mail,
-      label: "info@soroushomran.ir",
+      label: "info@soroushcompanies.com",
     },
   ],
 
